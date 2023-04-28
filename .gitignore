@@ -6,7 +6,7 @@
 .pnp.js
 
 #custom
-/startbootstrap-clean-blog-gh-pages
+./startbootstrap-clean-blog-gh-pages
 
 # testing
 /coverage
